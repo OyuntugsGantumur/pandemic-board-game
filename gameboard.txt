@@ -1,0 +1,48 @@
+Santiago : Lima
+Lima : Santiago, Bogota, Mexico City
+Buenos Aires : Sao Paulo, Bogota
+Bogota : Lima, Mexico City, Miami, Sao Paulo, Buenos Aires
+Miami : Bogota, Mexico City, Atlanta, Washington
+Mexico City : Los Angeles, Chicago, Miami, Bogota, Lima
+Atlanta : Washington, Miami, Chicago
+Los Angeles : Sydney, San Francisco, Chicago, Mexico City
+San Francisco : Tokyo, Manila, Chicago, Los Angeles
+Chicago : San Francisco, Los Angeles, Mexico City, Atlanta, Montreal
+Montreal : Chicago, Washington, New York
+Washington : Miami, Montreal, Atlanta, New York
+New York : Montreal, Washington, Madrid, London
+Sao Paulo : Buenos Aires, Bogota, Lagos, Madrid
+London : New York, Madrid, Paris, Essen
+Madrid : New York, Sao Paulo, London, Paris, Algiers
+Paris : London, Madrid, Algiers, Essen, Milan
+Milan : Paris, Essen, Istanbul
+St Petersburg : Essen, Istanbul, Moscow
+Essen : London, Paris, St Petersburg, Milan
+Istanbul : Milan, St Petersburg, Moscow, Baghdad, Cairo, Algiers
+Moscow : St Petersburg, Istanbul, Tehran
+Algiers : Madrid, Paris, Istanbul, Cairo
+Lagos : Sao Paulo, Kinshasa, Khartoum
+Kinshasa : Lagos, Khartoum, Johannesburg
+Johannesburg : Kinshasa, Khartoum
+Khartoum : Cairo, Lagos, Kinshasa, Johannesburg
+Cairo : Khartoum, Riyadh, Baghdad, Istanbul, Algiers
+Riyadh : Cairo, Baghdad, Karachi
+Baghdad : Cairo, Istanbul, Tehran, Karachi, Riyadh
+Tehran : Moscow, Baghdad, Karachi, Delhi
+Karachi : Riyadh, Baghdad, Tehran, Delhi, Mumbai
+Mumbai : Karachi, Delhi, Chennai
+Delhi : Tehran, Karachi, Mumbai, Chennai, Kolkata
+Chennai : Mumbai, Delhi, Kolkata, Bangkok, Jakarta
+Kolkata : Delhi, Chennai, Bangkok, Hong Kong
+Bangkok : Chennai, Kolkata, Hong Kong, Jakarta, Ho Chi Minh City
+Jakarta : Chennai, Bangkok, Ho Chi Minh City, Sydney
+Ho Chi Minh City : Jakarta, Bangkok, Hong Kong, Manila
+Sydney : Jakarta, Manila, Los Angeles
+Manila : Sydney, Ho Chi Minh City, San Francisco, Hong Kong, Taipei
+Taipei : Manila, Hong Kong, Shanghai, Osaka
+Hong Kong : Kolkata, Bangkok, Ho Chi Minh City, Manila, Taipei, Shanghai
+Osaka : Taipei, Tokyo
+Shanghai : Beijing, Seoul, Tokyo, Taipei, Hong Kong
+Beijing : Seoul, Shanghai
+Seoul : Beijing, Shanghai, Tokyo
+Tokyo : San Francisco, Osaka, Shanghai, Seoul

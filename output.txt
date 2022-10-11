@@ -1,0 +1,275 @@
+The seed value: 117
+The number of neighbors each city has: Default board game
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 17 cubes, cured and not eradicated.
+Disease blue: 10 cubes, not cured and not eradicated.
+Disease yellow: 17 cubes, cured and not eradicated.
+Disease red: 20 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 2
+Infection rate is at 3
+-------------------------
+The seed value: 117
+The number of neighbors each city has: 2
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 13 cubes, cured and not eradicated.
+Disease blue: 20 cubes, cured and not eradicated.
+Disease yellow: 12 cubes, cured and not eradicated.
+Disease red: 13 cubes, not cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 2
+Infection rate is at 2
+-------------------------
+The seed value: 117
+The number of neighbors each city has: 5
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 16 cubes, cured and not eradicated.
+Disease blue: 20 cubes, not cured and not eradicated.
+Disease yellow: 18 cubes, cured and not eradicated.
+Disease red: 22 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 4
+Infection rate is at 3
+-------------------------
+The seed value: 117
+The number of neighbors each city has: 8
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 11 cubes, cured and not eradicated.
+Disease blue: 12 cubes, cured and not eradicated.
+Disease yellow: 11 cubes, cured and not eradicated.
+Disease red: 10 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 117
+The number of neighbors each city has: 11
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 20 cubes, cured and not eradicated.
+Disease blue: 15 cubes, not cured and not eradicated.
+Disease yellow: 16 cubes, cured and not eradicated.
+Disease red: 14 cubes, cured and not eradicated.
+The number of research stations built: 2
+The outbreak marker: 1
+Infection rate is at 3
+-------------------------
+The seed value: 317
+The number of neighbors each city has: Default board game
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 20 cubes, cured and not eradicated.
+Disease blue: 13 cubes, not cured and not eradicated.
+Disease yellow: 14 cubes, cured and not eradicated.
+Disease red: 6 cubes, not cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 2
+Infection rate is at 3
+-------------------------
+The seed value: 317
+The number of neighbors each city has: 2
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 17 cubes, cured and not eradicated.
+Disease blue: 20 cubes, not cured and not eradicated.
+Disease yellow: 15 cubes, cured and not eradicated.
+Disease red: 17 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 3
+Infection rate is at 3
+-------------------------
+The seed value: 317
+The number of neighbors each city has: 5
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 9 cubes, cured and not eradicated.
+Disease blue: 11 cubes, cured and not eradicated.
+Disease yellow: 14 cubes, cured and not eradicated.
+Disease red: 9 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 317
+The number of neighbors each city has: 8
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 11 cubes, cured and not eradicated.
+Disease blue: 10 cubes, cured and not eradicated.
+Disease yellow: 9 cubes, cured and not eradicated.
+Disease red: 12 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 317
+The number of neighbors each city has: 11
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 12 cubes, cured and not eradicated.
+Disease blue: 13 cubes, cured and not eradicated.
+Disease yellow: 10 cubes, cured and not eradicated.
+Disease red: 9 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 527
+The number of neighbors each city has: Default board game
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 7 cubes, cured and not eradicated.
+Disease blue: 19 cubes, cured and not eradicated.
+Disease yellow: 20 cubes, cured and not eradicated.
+Disease red: 19 cubes, not cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 3
+Infection rate is at 3
+-------------------------
+The seed value: 527
+The number of neighbors each city has: 2
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 17 cubes, not cured and not eradicated.
+Disease blue: 15 cubes, cured and not eradicated.
+Disease yellow: 15 cubes, cured and not eradicated.
+Disease red: 20 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 3
+Infection rate is at 3
+-------------------------
+The seed value: 527
+The number of neighbors each city has: 5
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 10 cubes, cured and not eradicated.
+Disease blue: 11 cubes, cured and not eradicated.
+Disease yellow: 14 cubes, cured and not eradicated.
+Disease red: 10 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 527
+The number of neighbors each city has: 8
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 14 cubes, cured and not eradicated.
+Disease blue: 11 cubes, cured and not eradicated.
+Disease yellow: 14 cubes, cured and not eradicated.
+Disease red: 8 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 527
+The number of neighbors each city has: 11
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 17 cubes, cured and not eradicated.
+Disease blue: 12 cubes, cured and not eradicated.
+Disease yellow: 13 cubes, cured and not eradicated.
+Disease red: 16 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 3
+-------------------------
+The seed value: 712
+The number of neighbors each city has: Default board game
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 9 cubes, cured and not eradicated.
+Disease blue: 13 cubes, cured and not eradicated.
+Disease yellow: 20 cubes, cured and not eradicated.
+Disease red: 10 cubes, not cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 2
+Infection rate is at 3
+-------------------------
+The seed value: 712
+The number of neighbors each city has: 2
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 10 cubes, cured and not eradicated.
+Disease blue: 10 cubes, cured and not eradicated.
+Disease yellow: 11 cubes, cured and not eradicated.
+Disease red: 15 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 712
+The number of neighbors each city has: 5
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 12 cubes, cured and not eradicated.
+Disease blue: 11 cubes, cured and not eradicated.
+Disease yellow: 11 cubes, cured and not eradicated.
+Disease red: 12 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 712
+The number of neighbors each city has: 8
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 11 cubes, cured and not eradicated.
+Disease blue: 10 cubes, cured and not eradicated.
+Disease yellow: 13 cubes, cured and not eradicated.
+Disease red: 10 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 712
+The number of neighbors each city has: 11
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 20 cubes, cured and not eradicated.
+Disease blue: 23 cubes, cured and not eradicated.
+Disease yellow: 20 cubes, cured and not eradicated.
+Disease red: 28 cubes, cured and not eradicated.
+The number of research stations built: 1
+The outbreak marker: 2
+Infection rate is at 3
+-------------------------
+The seed value: 823
+The number of neighbors each city has: Default board game
+Game status: Pawns lost the game! Run out of disease cubes.
+Disease black: 7 cubes, not cured and not eradicated.
+Disease blue: 16 cubes, cured and not eradicated.
+Disease yellow: 21 cubes, cured and not eradicated.
+Disease red: 14 cubes, not cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 2
+Infection rate is at 3
+-------------------------
+The seed value: 823
+The number of neighbors each city has: 2
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 14 cubes, cured and not eradicated.
+Disease blue: 10 cubes, cured and not eradicated.
+Disease yellow: 14 cubes, cured and not eradicated.
+Disease red: 18 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 3
+-------------------------
+The seed value: 823
+The number of neighbors each city has: 5
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 10 cubes, cured and not eradicated.
+Disease blue: 11 cubes, cured and not eradicated.
+Disease yellow: 10 cubes, cured and not eradicated.
+Disease red: 10 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------
+The seed value: 823
+The number of neighbors each city has: 8
+Game status: Pawns lost the game! Players deck is finished
+Disease black: 16 cubes, cured and not eradicated.
+Disease blue: 14 cubes, cured and not eradicated.
+Disease yellow: 13 cubes, cured and not eradicated.
+Disease red: 16 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 3
+-------------------------
+The seed value: 823
+The number of neighbors each city has: 11
+Game status: Pawns won the game!!! Cured all diseases.
+Disease black: 10 cubes, cured and not eradicated.
+Disease blue: 9 cubes, cured and not eradicated.
+Disease yellow: 12 cubes, cured and not eradicated.
+Disease red: 11 cubes, cured and not eradicated.
+The number of research stations built: 0
+The outbreak marker: 1
+Infection rate is at 2
+-------------------------

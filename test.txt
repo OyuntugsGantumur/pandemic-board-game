@@ -1,0 +1,9 @@
+Tokyo black
+Paris blue
+NewYork red
+Washington yellow
+Milan black
+Stockholm yellow
+Beijing red
+Moscow black
+London blue
